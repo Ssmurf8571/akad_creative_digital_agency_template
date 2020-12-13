@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+@font-face {font-family: "Arabic Typesetting";
+	src: url("../fonts/Arabic\ Typesetting/Arabic_Typesetting.eot"); /* IE9*/
+	src: url("../fonts/Arabic\ Typesetting/Arabic_Typesetting.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+	url("../fonts/Arabic\ Typesetting/Arabic_Typesetting.woff2") format("woff2"), /* chrome、firefox */
+	url("../fonts/Arabic\ Typesetting/Arabic_Typesetting.woff") format("woff"), /* chrome、firefox */
+	url("../fonts/Arabic\ Typesetting/Arabic_Typesetting.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+	url("../fonts/Arabic\ Typesetting/Arabic_Typesetting.svg#Arabic Typesetting") format("svg"); /* iOS 4.1- */
+  }
+
+@font-face {font-family: "Myriad Pro";
+	src: url("../fonts/Myriad\ Pro/Myriad_Pro.eot"); 
+	src: url("../fonts/Myriad\ Pro/Myriad_Pro.eot?#iefix") format("embedded-opentype"), 
+	url("../fonts/Myriad\ Pro/Myriad_Pro.woff2") format("woff2"), 
+	url("../fonts/Myriad\ Pro/Myriad_Pro.woff") format("woff"), 
+	url("../fonts/Myriad\ Pro/Myriad_Pro.ttf") format("truetype"), 
+	url("../fonts/Myriad\ Pro/Myriad_Pro.svg#Myriad Pro") format("svg"); 
+}
